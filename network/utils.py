@@ -1,5 +1,5 @@
 import socket
-impmort psutils
+import psutils
 
 def get_ip_addresses():
     return [snic.address
